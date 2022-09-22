@@ -1,0 +1,5 @@
+*.o
+*.hi
+/dir_DevelopSources
+/dir_Examinations
+apply.sh
